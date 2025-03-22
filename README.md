@@ -65,6 +65,7 @@ The `num_tokens` parameter sets the lower bound on the number of tokens that the
 | --- |
 |`ethereum`|
 |`polygon`|
+|`taraxa`|
 |`fantom`|
 |`xdai`|
 |`bsc`|
@@ -73,7 +74,7 @@ The `num_tokens` parameter sets the lower bound on the number of tokens that the
 |`fuji`| 
 |`harmony`|
 |`kovan` |
-`mumbai`| 
+|`mumbai`| 
 |`goerli`| 
 |`ropsten`|
 |`rinkeby`|
